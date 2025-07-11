@@ -1,0 +1,75 @@
+/* nva heading style*/
+
+
+
+.open-sans-normal{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:bold;
+  font-style: normal;
+  font-size: 35px;
+}
+
+nav{
+
+    background-image: url(../Assets/Hero-bg.png);
+    margin: 25px;
+    color: #4E47FF;
+    align-items: center;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: o 159px ;
+    padding: 0 150px;
+
+}
+.title{
+    text-align: center;
+    padding: 210px 270px 164px;
+    color: #252432;
+    font-size: 30px;
+    font-weight: bold;
+}
+.btn-primary{
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    font-weight: bold;
+ border-radius: 6px;
+    height: 50px;
+    width: 160px;   
+}
+/* bannner style */
+
+ .banner{
+        display: flex;
+        gap: 300px;
+        justify-content: space-between;
+    align-items: center;
+    margin-top: 0;
+    margin-left: 141px;
+    margin-right: 159px;
+    margin-bottom: 0;
+ }
+.banner-title{
+    font-size:25px;
+    color:#252432;
+    font-weight: 40px;
+} 
+.class-contant{
+color: #252432;
+}
+    .banner-description{
+        color: #252432 50%;
+        font-size: small;
+        font-weight: lighter; 
+    }
+    .banner-pic{
+        width: 403px;
+        height: 250px;
+        border-radius: 10px;
+        /* margin: 0 auto; */
+    }
+   
